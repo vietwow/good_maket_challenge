@@ -6,7 +6,7 @@
 * Separate development mode, test mode and production mode for database
 * Optimize queries
 
-** Change database connect at model/base.py. We should refactor it to config file soon**
+**Change database connect at *model/base.py*. We should refactor it to config file soon**
 
 Install requirements
 
