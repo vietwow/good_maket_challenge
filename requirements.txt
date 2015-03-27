@@ -1,10 +1,10 @@
+factory-boy==2.5.0
 Flask==0.10.1
-itsdangerous==0.24
+gunicorn==19.3.0
 Jinja2==2.7.3
+nose==1.3.4
 peewee==2.5.0
+pinocchio==0.4.2
+preggy==1.2.0
 psycopg2==2.6
-nose
-WebTest
-pinocchio
-factory_boy
-preggy
+WebTest==2.0.18
