@@ -4,6 +4,7 @@
 	
 * Refactor, reduce line of code, optimze processing
 * Separate development mode, test mode and production mode for database
+* Implements Factory to generate test data
 * Optimize queries
 
 **Change database connect at *model/base.py*. We should refactor it to config file soon**
