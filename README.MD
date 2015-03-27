@@ -1,5 +1,25 @@
 # Test of Chotot.vn
 
+## TODO
+	
+* Refactor, reduce line of code, optimze processing
+* Separate development mode, test mode and production mode for database
+* Optimize queries
+
+Change database connect at model/base.py. We should refactor it to config file soon
+
+Install requirements
+
+	pip install -r requirements.txt
+
+Run tests
+
+	python test.py
+
+Result:
+
+![Previews](http://i.imgur.com/ysMtTa5.png)
+
 List of GETs API:
 
 List of users
